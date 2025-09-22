@@ -1,0 +1,5 @@
+We are planning to build a Multi agent financial advisory system with following tech stack:
+
+1. LangChain and LangGraph
+2. Python based back-end (FastAPI)
+3. Nextjs and MUI front-end
